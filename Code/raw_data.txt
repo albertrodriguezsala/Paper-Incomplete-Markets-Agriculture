@@ -1,0 +1,17 @@
+
+
+
+Raw data:
+The data underlying this article are available for free download in World Bank LSMS-ISA project, Uganda country tab:
+UGA_2005-2009_UNPS_v02_M
+https://doi.org/10.48529/pnd4-7d68
+UGA_2010_UNPS_v02_M
+https://doi.org/10.48529/23fp-3797
+UGA_2011_UNPS_v01_M
+https://doi.org/10.48529/5cpp-r373
+UGA_2013_UNPS_v02_M
+https://doi.org/10.48529/c1c4-h654
+UGA_2015_UNPS_v02_M
+https://doi.org/10.48529/hm2z-2k12
+
+Dataset downloaded on 31/05/2019.
