@@ -31,24 +31,7 @@ from integration_methods import gauss_hermite_quadrature, gauss_hermite_1d
 import math
 np.random.seed(23)
 
-'''
-    avg(y) = 1502.58
-    avg(w) = = 1862
-    avg(c)= 1500
-    avg(y_na) = 495.51
-    avg(y_h)= 651.12
-    avg(y_l)= 353.39
-    avg(m_h)= 40.75
-    avg(m_l)= 36.46 
-    gini(inc) = 0.57
-    gini(y_a) = 0.62    
-    gini(w) = 0.71
-    risk y_h = 1.0521
-    risk y_l = 0.722
-    corr(y_h,y_l) = 0.115
-    risk inc = 0.6004
 
-'''
 
 
 def my_lin(lb, ub, steps, spacing=2):
