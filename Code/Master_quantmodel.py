@@ -10,7 +10,6 @@ import os
 from pathlib import Path
 import warnings
 warnings.filterwarnings('ignore')
-warnings.filterwarnings('ignore', category=DeprecationWarning)
 import sys
 dirct  = Path('Master_quantmodel.py').resolve().parent
 if '\\' in str(dirct):
