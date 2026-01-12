@@ -1,5 +1,5 @@
 # Paper-Incomplete-Markets-Agriculture
 
-Replication package for the paper "The Impact of Incomplete Financial Markets on Crop-Choice, Agricultural Productivity, and Welfare".
+Replication package for the paper "Incomplete Markets, Crop Portfolios, and Agricultural Productivity".
 
 
